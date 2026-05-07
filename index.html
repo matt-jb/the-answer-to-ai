@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>The Answer to AI, Software Engineering, and Everything</title>
+
+    <link rel="stylesheet" href="node_modules/reveal.js/dist/reset.css" />
+    <link rel="stylesheet" href="node_modules/reveal.js/dist/reveal.css" />
+    <link
+      rel="stylesheet"
+      href="node_modules/reveal.js/dist/theme/black.css"
+      id="theme"
+    />
+    <link
+      rel="stylesheet"
+      href="node_modules/reveal.js/dist/plugin/highlight/monokai.css"
+    />
+
+    <style>
+      :root {
+        --r-heading-text-transform: none;
+      }
+      .reveal .slides section {
+        text-align: left;
+      }
+      .reveal .slides section.title-slide,
+      .reveal .slides section[data-state="center"] {
+        text-align: center;
+      }
+      .reveal blockquote {
+        font-style: italic;
+      }
+      .reveal a {
+        text-decoration: none;
+        border-bottom: 1px dashed currentColor;
+      }
+      .reveal small.source {
+        display: block;
+        margin-top: 0.5em;
+        opacity: 0.6;
+        font-size: 0.5em;
+      }
+
+      /* Images: sensible defaults so raw <img> / ![]() look polished */
+      .reveal .slides img {
+        max-width: 100%;
+        max-height: 60vh;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+        border-radius: 8px;
+      }
+      .reveal .slides img.plain {
+        border-radius: 0;
+      }
+      .reveal .slides figure {
+        margin: 0;
+      }
+      .reveal .slides figcaption {
+        margin-top: 0.4em;
+        font-size: 0.55em;
+        opacity: 0.65;
+        text-align: center;
+      }
+
+      /* Layout helpers — drop into any markdown slide as raw HTML.
+         Examples live in slides.md. */
+      .reveal .cols {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2em;
+        align-items: center;
+      }
+      .reveal .cols.image-text {
+        grid-template-columns: 1.2fr 1fr;
+      }
+      .reveal .cols.text-image {
+        grid-template-columns: 1fr 1.2fr;
+      }
+      .reveal .cols.thirds {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 0.8em;
+      }
+      .reveal .cols > * {
+        min-width: 0;
+      }
+      .reveal .cols img {
+        width: 100%;
+        max-height: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="slides.md"
+          data-separator="^\r?\n---\r?\n$"
+          data-separator-vertical="^\r?\n--\r?\n$"
+          data-separator-notes="^Note:"
+        ></section>
+      </div>
+    </div>
+
+    <script src="node_modules/reveal.js/dist/reveal.js"></script>
+    <script src="node_modules/reveal.js/dist/plugin/markdown.js"></script>
+    <script src="node_modules/reveal.js/dist/plugin/highlight.js"></script>
+    <script src="node_modules/reveal.js/dist/plugin/notes.js"></script>
+    <script src="node_modules/reveal.js/dist/plugin/search.js"></script>
+    <script src="node_modules/reveal.js/dist/plugin/zoom.js"></script>
+
+    <script>
+      Reveal.initialize({
+        hash: true,
+        controls: true,
+        progress: true,
+        slideNumber: "c/t",
+        history: false,
+        center: false,
+        transition: "slide",
+        backgroundTransition: "fade",
+        pdfSeparateFragments: false,
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom,
+        ],
+      });
+    </script>
+  </body>
+</html>

@@ -24,6 +24,7 @@ It's like in software engineering: you always have options, pros and cons. You n
 The only exception: there will be AN EVENT, previously unpredictable:
 - ChatGPT release
 - COVID-19
+- The iPhone
 - Putin's invasion of Ukraine
 
 5. We are always told that new technology will:
