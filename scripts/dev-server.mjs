@@ -86,9 +86,16 @@ const isNoise = (filename) =>
 
 function watchPath(target) {
   try {
-    watch(target, { recursive: true }, (_event, filename) => {
+    const watcher = watch(target, { recursive: true }, (_event, filename) => {
       if (isNoise(filename)) return;
       scheduleBroadcast();
+    });
+    // Async watcher errors (EMFILE, etc.) must be handled, otherwise Node
+    // emits 'error' on the EventEmitter and crashes the whole process.
+    // The dev server stays useful even if file watching degrades — the
+    // browser just won't auto-reload until the next manual refresh.
+    watcher.on("error", (err) => {
+      console.warn(`  ! Watch error on ${target}: ${err.message}`);
     });
   } catch (err) {
     console.warn(`  ! Could not watch ${target}: ${err.message}`);
