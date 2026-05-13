@@ -44,6 +44,16 @@
         opacity: 0.6;
         font-size: 0.5em;
       }
+      .deck-footnote {
+        position: absolute;
+        left: 1rem;
+        bottom: 1.25rem;
+        font-size: 0.35em;
+        opacity: 0.75;
+        z-index: 20;
+        line-height: 1;
+        pointer-events: auto;
+      }
 
       /* Images: sensible defaults so raw <img> / ![]() look polished */
       .reveal .slides img {
@@ -104,6 +114,7 @@
           data-separator-notes="^Note:"
         ></section>
       </div>
+      <div id="deck-footnote" class="deck-footnote" hidden></div>
     </div>
 
     <script src="node_modules/reveal.js/dist/reveal.js"></script>
@@ -132,6 +143,27 @@
           RevealZoom,
         ],
       });
+
+      const deckFootnote = document.getElementById("deck-footnote");
+
+      function updateDeckFootnote(event) {
+        const slide = event?.currentSlide || Reveal.getCurrentSlide();
+        const text = slide?.dataset.footnoteText;
+        const link = slide?.dataset.footnoteLink;
+
+        deckFootnote.hidden = !(text && link);
+        deckFootnote.replaceChildren();
+
+        if (text && link) {
+          const anchor = document.createElement("a");
+          anchor.href = link;
+          anchor.textContent = text;
+          deckFootnote.append(anchor);
+        }
+      }
+
+      Reveal.on("ready", updateDeckFootnote);
+      Reveal.on("slidechanged", updateDeckFootnote);
     </script>
   </body>
 </html>

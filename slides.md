@@ -84,7 +84,7 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/kanalizacja.png" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/kanalizacja.png" data-background-size="contain" data-state="center" data-footnote-text="full brochure" data-footnote-link="https://polona.pl/preview/cb305681-623e-4b39-8d31-3bbb19b41989" -->
 
 ---
 
@@ -101,6 +101,18 @@ Software Engineer @ Box
 ---
 
 <!-- .slide: data-background-image="assets/dodo.jpeg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/dodo.jpeg" data-background-size="contain" data-state="center" data-background-opacity="0.35" -->
+
+> "American programmers will share the fate of the dodo bird."
+
+<small class="source">Ed Yourdon, 1992</small>
+<small class="source">Influential software‑engineering methodologist</small>
+<small class="source">Author of 20+ books</small>
+<small class="source">Computer Hall of Fame inductee</small>
+<small class="source"><a href="https://dl.acm.org/doi/pdf/10.1145/379300.379309">Source</a></small>
 
 ---
 
@@ -204,6 +216,7 @@ The really good option:
 - More strategic tasks <!-- .element: class="fragment" -->
 - Larger diffs <!-- .element: class="fragment" -->
 - Become an AI leader in your organization <!-- .element: class="fragment" -->
+- Instinctively know the use-cases (and anti-use-cases for AI) <!-- .element: class="fragment" -->
 - Prove impact and initiative to your manager <!-- .element: class="fragment" -->
 
 ---
@@ -254,3 +267,10 @@ and there is top-down support for it
 
 Questions?
 
+<!-- 
+
+Missing slides:
+- What if I'm wrong?
+- 
+
+-->
