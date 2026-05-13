@@ -1,186 +1,248 @@
 <!-- .slide: class="title-slide" data-state="center" -->
 
-# The Answer to AI
-
-### Software Engineering, and Everything
-
-Matt — Software Engineer @ Box
-
-Note:
-Speaker notes go here. Press `S` during the talk to open the speaker view.
+# The Answer to AI, Software Engineering, and Everything
 
 ---
 
-## How this deck is authored
+<!-- .slide: class="title-slide" data-state="center" -->
 
-- Each slide is a Markdown block separated by `---` on its own line.
-- Use `--` on its own line to create vertical sub-slides.
-- Anything after `Note:` on a line becomes speaker notes.
+## Mateusz Jarzębowski-Bownik
 
-Edit `slides.md` and the page reloads automatically.
+Software Engineer @ Box
 
 ---
 
-## Markdown that just works
-
-- **Bold**, *italic*, ~~strike~~, `inline code`
-- Bulleted and numbered lists
-- [Links](https://revealjs.com/markdown/) keep their formatting
-- Images: `![alt](path/to/image.png)`
-
-<small class="source">Reference: revealjs.com/markdown</small>
+<!-- .slide: data-background-image="assets/me-then-vs-me-now.jpg" data-background-size="contain" data-state="center" -->
 
 ---
 
-## Reveal one bullet at a time
-
-- This appears first <!-- .element: class="fragment" -->
-- Then this <!-- .element: class="fragment" -->
-- Finally this <!-- .element: class="fragment" -->
-
-Note:
-Press `Space` / `→` to advance fragments, `←` to go back.
+<!-- .slide: data-background-image="assets/gmsd.png" data-background-size="contain" data-state="center" -->
 
 ---
 
-## Code, with syntax highlighting
-
-```js [1-3|5-7]
-function dontPanic(year) {
-  return year < 2030 ? "we'll be fine" : "still fine";
-}
-
-// line-numbers and step-through highlighting
-// are driven by the [1-3|5-7] above
-console.log(dontPanic(2026));
-```
+<!-- .slide: data-background-image="assets/deep-thought.png" data-background-size="contain" data-state="center" -->
 
 ---
 
-## Vertical slides for drill-downs
-
-Press `↓` to go deeper into a topic, `→` to skip it.
-
---
-
-### Drill-down: evidence
-
-- Polish IT job market: post-COVID all-time high
-- US IT job market: same trend
-- BPOs: hiring up, not down
-
---
-
-### Drill-down: the Jevons paradox
-
-Cheaper compute → more compute used, not less.
-The same applies to engineering output.
+<!-- .slide: data-background-video="assets/hoping-nobody-will-have-to-debug-this-later.mp4" data-background-video-loop data-background-video-muted data-background-size="contain" data-state="center" -->
 
 ---
 
-## Quotes look great too
-
-> "American programmers will share the fate of the dodo bird."
-
-<small class="source">Ed Yourdon, 1992 — and yet, here we are.</small>
+<!-- .slide: data-background-image="assets/claude-voldemort.jpg" data-background-size="contain" data-state="center" -->
 
 ---
 
-<!-- .slide: data-background-color="#1a1a2e" -->
-
-## Custom backgrounds per slide
-
-Add `<!-- .slide: data-background-color="#hex" -->` at the top of any slide,
-or use `data-background-image`, `data-background-video`, etc.
+[Dołożyć slajd albo dwa screenów z tytułów, artykułów z Business Insider Polska, które wzajemnie się wykluczają o tym, że AI wszystkich pozbawi pracy versus o tym, jakie AI jest super, jak przyspiesza pracę i jak da więcej pracy.]
 
 ---
 
-## Sizing a single image
-
-![](assets/placeholder.svg)
-<!-- .element: style="max-height: 50vh" -->
-
-The `<!-- .element: ... -->` comment after any markdown element
-attaches HTML attributes to it — `style`, `class`, `width`, anything.
+<!-- .slide: data-background-image="assets/leslie-nielsen-nothing-to-see-here.gif" data-background-size="contain" data-state="center" -->
 
 ---
 
-## Image beside text
+<!-- .slide: data-background-image="assets/superforcasting.jpg" data-background-size="contain" data-state="center" -->
 
-<div class="cols image-text">
-  <div>
+---
 
-![](assets/placeholder.svg)
+<!-- .slide: data-background-image="assets/rust.png" data-background-size="contain" data-state="center" -->
 
-  </div>
-  <div>
+---
 
-### The trimodal market
+<!-- .slide: data-background-image="assets/the-unpredictable.png" data-background-size="contain" data-state="center" -->
 
-- Three pay tiers, not one curve
-- The top tier keeps growing fastest
-- AI tooling widens the gap further
+---
 
-  </div>
+<!-- .slide: data-background-image="assets/jobs-poland.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/april-2026-poland.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/april-2026-poland.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/jobs-us.jpeg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/jobs-bpos.jpeg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/996.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/comp-2026.jpeg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/devops.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/kanalizacja.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/overthinking.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/plato.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/factfulness.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/dodo.jpeg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/thinking-fast-and-slow.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+## (just a few of) IT doomsday predictions
+
+- Offshoring <!-- .element: class="fragment" -->
+- From COBOL and 4GLs to CASE <!-- .element: class="fragment" -->
+- Y2K <!-- .element: class="fragment" -->
+- Dreamweaver <!-- .element: class="fragment" -->
+- WordPress <!-- .element: class="fragment" -->
+- Low-code / no-code <!-- .element: class="fragment" -->
+
+---
+
+<!-- .slide: data-background-image="assets/facebook-groups.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+## What's actually going to (most likely) happen?
+
+---
+
+<!-- .slide: data-background-image="assets/productivity-boom.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/jevons-paradox.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+## Your profession is going to change
+
+The question is, will you really notice that? <!-- .element: class="fragment" -->
+
+---
+
+## What can YOU do?
+
+---
+
+## Master the fundamentals
+
+The cheap option:
+
+<div class="cols">
+  <figure>
+
+![](assets/cc-tips-and-tricks.png)
+
+  <figcaption><a href="https://youtu.be/bL1PYhogwp0">Quickstart</a> (free)</figcaption>
+  </figure>
+  <figure>
+
+![](assets/agentic-coding-masterclass.jpg)
+
+  <figcaption><a href="https://www.skool.com/agentic-labs/classroom/159a6570">Full course</a> (~$7)</figcaption>
+  </figure>
+  <figure>
+
+  </figure>
 </div>
 
-Note:
-Inside `<div>` blocks you must leave a blank line before and after the markdown
-content, otherwise the parser treats it as raw HTML and won't render `**bold**`,
-lists, etc.
-
 ---
 
-## Three columns / a quick gallery
+## Master the fundamentals
+
+The really good option:
 
 <div class="cols thirds">
   <figure>
 
-![](assets/placeholder.svg)
+![](assets/10xdevs.png)
 
-  <figcaption>Then</figcaption>
+  <figcaption><a href="https://www.10xdevs.pl/">10xDevs</a></figcaption>
   </figure>
   <figure>
 
-![](assets/placeholder.svg)
+![](assets/aidevs.webp)
 
-  <figcaption>Now</figcaption>
+  <figcaption><a href="https://www.aidevs.pl/">AI_Devs</a></figcaption>
   </figure>
   <figure>
 
-![](assets/placeholder.svg)
+![](assets/dj.png)
 
-  <figcaption>Next</figcaption>
+  <figcaption><a href="https://developerjutra.pl/">Developer Jutra</a></figcaption>
+  </figure>
+  <figure>
+
   </figure>
 </div>
 
 ---
 
-<!-- .slide: data-background-image="assets/placeholder.svg" data-background-size="contain" data-background-color="#000" -->
+## You will achieve:
 
-Note:
-For an edge-to-edge image with no text on top, just leave the slide body
-empty (or use a single short caption like this) and use
-`data-background-size="contain"` to letterbox, or `"cover"` to fill and crop.
-
----
-
-<!-- .slide: data-background-image="assets/placeholder.svg" data-background-opacity="0.35" -->
-
-## Image as the slide background
-
-`data-background-image` fills the whole slide, and you can put text on top.
-Use `data-background-opacity="0.35"` to tone it down so text stays readable.
+- More strategic tasks <!-- .element: class="fragment" -->
+- Larger diffs <!-- .element: class="fragment" -->
+- Become an AI leader in your organization <!-- .element: class="fragment" -->
+- Prove impact and initiative to your manager <!-- .element: class="fragment" -->
 
 ---
 
-## Where to put your content
+<!-- .slide: data-background-image="assets/automation.jpg" data-background-size="contain" data-state="center" -->
 
-The talk outline lives in `scratchpad.md`.
+---
 
-Move sections from there into this file one slide at a time —
-the structure (Intro → Don't Panic → Why → Evidence → Predictions → Advice)
-is already mapped out and ready to drop in.
+## Do not immediately jump to any new tool or model
+
+![](assets/1764079927350.jpeg)
+<!-- .element: style="max-height: 50vh" -->
+
+---
+
+## Focus on building
+
+Come back once there's enough signal that it's worth it
+
+![](assets/1764079927171.jpeg)
+<!-- .element: style="max-height: 50vh" -->
+
+---
+
+## Internal knowledge sharing
+
+- Open a slack channel <!-- .element: class="fragment" -->
+- Do tech talks <!-- .element: class="fragment" -->
+- Create a prompt library <!-- .element: class="fragment" -->
+
+This is how you get ahead <!-- .element: class="fragment" -->
+
+---
+
+## Go work at a company which embraces AI
+
+and there is top-down support for it
+
+(if you can do it)
 
 ---
 
@@ -191,3 +253,4 @@ is already mapped out and ready to drop in.
 ### Thanks!
 
 Questions?
+

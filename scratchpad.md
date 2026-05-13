@@ -27,6 +27,13 @@ The only exception: there will be AN EVENT, previously unpredictable:
 - The iPhone
 - Putin's invasion of Ukraine
 
+5. If anyone tells me that AI is going to take our jobs, I'll ask them to show me the evidence. Because currently:
+- The Polish IT job market is at its post-COVID peak all-time high (my data).
+- The US IT job market as well: https://www.linkedin.com/feed/update/urn:li:activity:7442599442274291712/
+- Zatrudnienie w BPOsach raczej rośnie zamiast spadać pod presją AI: https://www.linkedin.com/posts/jakubjeziorny_zatrudnienie-w-bposach-raczej-ro%C5%9Bnie-zamiast-share-7429863481580920832-tdU_/
+- Trimodal nature of tech compensation, revisited: https://media.licdn.com/dms/image/v2/D5622AQH2Nolx3hjF8w/feedshare-image-high-res/B56Z3bei_uI8AU-/0/1777503711471?e=1779321600&v=beta&t=TYchYeTBtlGjYj2VYSsDsYt5TjAw7r47JMfbuCCOsXQ, source: https://newsletter.pragmaticengineer.com/p/trimodal
+- Oh, and if there's really a job shortage, why am I hearing more and more about engineers in the US working 9-9-6?
+
 5. We are always told that new technology will:
 - Either kill us.
 - Or at the very least take our jobs.
@@ -38,6 +45,7 @@ And they all turned out to be great.
 Sometimes the job we did were different, but the end result was the same: more jobs, better paid in better conditions.
 The network admins -> SRE / DevOps / Cloud Engineers pivot.
 And there's vastly more jobs for them today than there were back then.
+https://polona.pl/preview/cb305681-623e-4b39-8d31-3bbb19b41989
 
 6. Why is that?
 - The evolutionary lens.
@@ -54,15 +62,6 @@ If someone is optimistic about the future, we naturally assume they're more stup
 We have an inherent negativity bias.
 Factulness described that in detail - take the story of a late 1940s Japanese person's example.
 
-8. If anyone tells me that AI is going to take our jobs, I'll ask them to show me the evidence. Because currently:
-- The Polish IT job market is at its post-COVID peak all-time high (my data).
-- The US IT job market as well: https://www.linkedin.com/feed/update/urn:li:activity:7442599442274291712/
-- Zatrudnienie w BPOsach raczej rośnie zamiast spadać pod presją AI: https://www.linkedin.com/posts/jakubjeziorny_zatrudnienie-w-bposach-raczej-ro%C5%9Bnie-zamiast-share-7429863481580920832-tdU_/
-- Trimodal nature of tech compensation, revisited: https://media.licdn.com/dms/image/v2/D5622AQH2Nolx3hjF8w/feedshare-image-high-res/B56Z3bei_uI8AU-/0/1777503711471?e=1779321600&v=beta&t=TYchYeTBtlGjYj2VYSsDsYt5TjAw7r47JMfbuCCOsXQ, source: https://newsletter.pragmaticengineer.com/p/trimodal
-- Oh, and if there's really a job shortage, why am I hearing more and more about engineers in the US working 9-9-6?
-
-9. Aaron's take on the Jevons paradox: https://www.linkedin.com/posts/boxaaron_if-you-think-ai-replaces-software-engineers-activity-7456453167988232192-ZEyz
-
 10. And we had all that!
 - "American programmers will share the fate of the dodo bird" - Ed Yourdon, influential software‑engineering methodologist, author of 20+ books, Computer Hall of Fame inductee. Source: https://dl.acm.org/doi/pdf/10.1145/379300.379309
 - Actually, similar predictions were made about all of white collar jobs: https://www.forrester.com/press-newsroom/forrester-finds-near-term-growth-of-offshore-outsourcing-accelerating/
@@ -73,6 +72,9 @@ Factulness described that in detail - take the story of a late 1940s Japanese pe
 - We even had Dreamweaver xD
 - Y2K bugs would trigger severe software failures and potentially widespread social disruption.
 - If this is funny - when I changed profession to an IC - I was told that "the market for software engineers is saturated and I have no chance of finding a job"
+
+9. Aaron's take on the Jevons paradox: https://www.linkedin.com/posts/boxaaron_if-you-think-ai-replaces-software-engineers-activity-7456453167988232192-ZEyz
+(image for the Jevons paradox source: GrowthWaves: https://www.growthwaves.com/)
 
 11. Overconfidence of experts opinions
 - Described in detail in "Thinking, Fast and Slow" by Daniel Kahneman: https://dn790002.ca.archive.org/0/items/DanielKahnemanThinkingFastAndSlow/Daniel%20Kahneman-Thinking,%20Fast%20and%20Slow%20%20.pdf
