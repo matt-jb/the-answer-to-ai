@@ -183,7 +183,7 @@ The cheap option:
 
 ## Master the fundamentals
 
-The really good option:
+The really good options:
 
 <div class="cols thirds">
   <figure>
@@ -225,6 +225,12 @@ The really good option:
 
 ---
 
+## You will make mistakes
+
+Refine as you go.
+
+---
+
 ## Do not immediately jump to any new tool or model
 
 ![](assets/1764079927350.jpeg)
@@ -238,6 +244,30 @@ Come back once there's enough signal that it's worth it
 
 ![](assets/1764079927171.jpeg)
 <!-- .element: style="max-height: 50vh" -->
+
+---
+
+## My current picks
+
+- Opus-4.7-xhigh (for brainstorming) <!-- .element: class="fragment" -->
+- GPT-5.5-high (for implementation) <!-- .element: class="fragment" -->
+- Codex-5.3-spark (for QQs) <!-- .element: class="fragment" -->
+
+---
+
+## Do you:
+
+- **Not use AI** (and finish in <span class="time-unit">*~5 days*</span>)?
+- **Use AI proficiently** but review everything (<span class="time-unit">*~3 days*</span>)?
+- Go **full-velocity** (<span class="time-unit">*~1 day*</span>)?
+
+---
+
+<!-- .slide: data-background-image="assets/swe.jpg" data-background-size="contain" data-state="center" data-background-opacity="0.15" -->
+
+> "Generally trying to be 2x engineer, instead of 10x shipping s**t."
+
+<small class="source">A very proficient Box software engineer</small>
 
 ---
 

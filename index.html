@@ -54,8 +54,6 @@
         line-height: 1;
         pointer-events: auto;
       }
-
-      /* Images: sensible defaults so raw <img> / ![]() look polished */
       .reveal .slides img {
         max-width: 100%;
         max-height: 60vh;
@@ -76,9 +74,6 @@
         opacity: 0.65;
         text-align: center;
       }
-
-      /* Layout helpers — drop into any markdown slide as raw HTML.
-         Examples live in slides.md. */
       .reveal .cols {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -101,6 +96,10 @@
       .reveal .cols img {
         width: 100%;
         max-height: none;
+      }
+      .reveal .time-unit {
+        color: #e7c547;
+        font-weight: 600;
       }
     </style>
   </head>
