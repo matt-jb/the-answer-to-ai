@@ -32,7 +32,11 @@ Software Engineer @ Box
 
 ---
 
-[Dołożyć slajd albo dwa screenów z tytułów, artykułów z Business Insider Polska, które wzajemnie się wykluczają o tym, że AI wszystkich pozbawi pracy versus o tym, jakie AI jest super, jak przyspiesza pracę i jak da więcej pracy.]
+<div style="display: flex; flex-direction: column; gap: 0.35em; width: 92%; margin: 0 auto;">
+  <img src="assets/screen-1.png" alt="AI kończy erę prostych software house'ów" style="width: 76%; margin-left: 10%;">
+  <img src="assets/screen-2.png" alt="AI pozwala dobrze zarobić" style="width: 76%; margin-left: 20%;">
+  <img src="assets/screen-3.png" alt="AI może nas wszystkich zabić" style="width: 76%; margin-left: 0;">
+</div>
 
 ---
 
@@ -60,23 +64,19 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/april-2026-poland.png" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/jobs-us.jpeg" data-background-size="contain" data-state="center" data-footnote-text="Source: Lenny Rachitsky" data-footnote-link="https://www.linkedin.com/feed/update/urn:li:activity:7442599442274291712/" -->
 
 ---
 
-<!-- .slide: data-background-image="assets/jobs-us.jpeg" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/jobs-bpos.jpeg" data-background-size="contain" data-state="center" data-footnote-text="Source: Jakub Jeziorny" data-footnote-link="https://www.linkedin.com/posts/jakubjeziorny_zatrudnienie-w-bposach-raczej-ro%C5%9Bnie-zamiast-share-7429863481580920832-tdU_/" -->
 
 ---
 
-<!-- .slide: data-background-image="assets/jobs-bpos.jpeg" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/996.png" data-background-size="contain" data-state="center" data-footnote-text="Source: LinkedIn post" data-footnote-link="https://media.licdn.com/dms/image/v2/D5622AQH2Nolx3hjF8w/feedshare-image-high-res/B56Z3bei_uI8AU-/0/1777503711471" -->
 
 ---
 
-<!-- .slide: data-background-image="assets/996.png" data-background-size="contain" data-state="center" -->
-
----
-
-<!-- .slide: data-background-image="assets/comp-2026.jpeg" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/comp-2026.jpeg" data-background-size="contain" data-state="center" data-footnote-text="Source: The Pragmatic Engineer" data-footnote-link="https://newsletter.pragmaticengineer.com/p/trimodal" -->
 
 ---
 
@@ -84,7 +84,7 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/kanalizacja.png" data-background-size="contain" data-state="center" data-footnote-text="full brochure" data-footnote-link="https://polona.pl/preview/cb305681-623e-4b39-8d31-3bbb19b41989" -->
+<!-- .slide: data-background-image="assets/kanalizacja.png" data-background-size="contain" data-state="center" data-footnote-text="Full brochure" data-footnote-link="https://polona.pl/preview/cb305681-623e-4b39-8d31-3bbb19b41989" -->
 
 ---
 
@@ -135,6 +135,23 @@ Software Engineer @ Box
 
 ---
 
+<div class="cols image-text">
+  <div>
+
+![](assets/why-so-optimistic.jpeg)
+
+  </div>
+  <div>
+
+- Skill erosion
+- Systems instability
+- Designers and UXers
+
+  </div>
+</div>
+
+---
+
 ## What's actually going to (most likely) happen?
 
 ---
@@ -143,7 +160,7 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/jevons-paradox.jpg" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/jevons-paradox.jpg" data-background-size="contain" data-state="center" data-footnote-text="Source" data-footnote-link="https://www.growthwaves.com/" -->
 
 ---
 
