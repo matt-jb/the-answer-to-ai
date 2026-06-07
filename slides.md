@@ -12,18 +12,6 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/me-then-vs-me-now.jpg" data-background-size="contain" data-state="center" -->
-
----
-
-<!-- .slide: data-background-image="assets/gmsd.png" data-background-size="contain" data-state="center" -->
-
----
-
-<!-- .slide: data-background-image="assets/deep-thought.png" data-background-size="contain" data-state="center" -->
-
----
-
 <!-- .slide: data-background-video="assets/hoping-nobody-will-have-to-debug-this-later.mp4" data-background-video-loop data-background-video-muted data-background-size="contain" data-state="center" -->
 
 ---
@@ -40,15 +28,27 @@ Software Engineer @ Box
 
 ---
 
+<div class="cols">
+  <figure>
+
+![](assets/screen-4.jpg)
+
+  </figure>
+
+  <figure>
+
+![](assets/screen-5.jpg)
+
+  </figure>
+</div>
+
+---
+
 <!-- .slide: data-background-image="assets/leslie-nielsen-nothing-to-see-here.gif" data-background-size="contain" data-state="center" -->
 
 ---
 
 <!-- .slide: data-background-image="assets/superforcasting.jpg" data-background-size="contain" data-state="center" -->
-
----
-
-<!-- .slide: data-background-image="assets/rust.png" data-background-size="contain" data-state="center" -->
 
 ---
 
@@ -80,15 +80,27 @@ Software Engineer @ Box
 
 ---
 
+<!-- .slide: data-background-image="assets/overthinking.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/franz-grossmann--qKWaGrF0UQ-unsplash.jpg" data-background-size="contain" data-state="center" data-footnote-text="Source: Unsplash" data-footnote-link="https://unsplash.com/photos/a-cat-is-hiding-in-the-bushes-at-night--qKWaGrF0UQ" -->
+
+---
+
+<!-- .slide: data-background-image="assets/new-jobs-at-box.png" data-background-size="contain" data-state="center" data-footnote-text="Source: NY Times" data-footnote-link="https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html" -->
+
+---
+
 <!-- .slide: data-background-image="assets/devops.jpg" data-background-size="contain" data-state="center" -->
 
 ---
 
-<!-- .slide: data-background-image="assets/kanalizacja.png" data-background-size="contain" data-state="center" data-footnote-text="Full brochure" data-footnote-link="https://polona.pl/preview/cb305681-623e-4b39-8d31-3bbb19b41989" -->
+<!-- .slide: data-background-image="assets/150-extra-engineers.jpeg" data-background-size="contain" data-state="center" -->
 
 ---
 
-<!-- .slide: data-background-image="assets/overthinking.jpg" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/kanalizacja.png" data-background-size="contain" data-state="center" data-footnote-text="Full brochure" data-footnote-link="https://polona.pl/preview/cb305681-623e-4b39-8d31-3bbb19b41989" -->
 
 ---
 
@@ -131,10 +143,6 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/facebook-groups.jpg" data-background-size="contain" data-state="center" -->
-
----
-
 <div class="cols image-text">
   <div>
 
@@ -142,9 +150,9 @@ Software Engineer @ Box
 
   </div>
   <div>
-
-- Skill erosion
+  
 - Systems instability
+- Skill erosion
 - Designers and UXers
 
   </div>
@@ -288,6 +296,17 @@ Come back once there's enough signal that it's worth it
 
 ---
 
+<!-- .slide: data-background-image="assets/Gregor_Hohpe.jpg" data-background-size="contain" data-state="center" data-background-opacity="0.35" -->
+
+> "If you just paste what the tool has generated, it's never a good outcome."
+
+> "You use the output of the tool as your starting point. And then you add the value."
+
+<small class="source">Gregor Hohpe</small>
+<small class="source"><a href="https://youtu.be/F8X9_Dp3ZUk">Source</a></small>
+
+---
+
 ## Internal knowledge sharing
 
 - Open a slack channel <!-- .element: class="fragment" -->
@@ -313,11 +332,3 @@ and there is top-down support for it
 ### Thanks!
 
 Questions?
-
-<!-- 
-
-Missing slides:
-- What if I'm wrong?
-- 
-
--->
