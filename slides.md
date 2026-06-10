@@ -52,10 +52,6 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/the-unpredictable.png" data-background-size="contain" data-state="center" -->
-
----
-
 <!-- .slide: data-background-image="assets/jobs-poland.png" data-background-size="contain" data-state="center" -->
 
 ---
@@ -104,14 +100,6 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/plato.png" data-background-size="contain" data-state="center" -->
-
----
-
-<!-- .slide: data-background-image="assets/factfulness.jpg" data-background-size="contain" data-state="center" -->
-
----
-
 <!-- .slide: data-background-image="assets/dodo.jpeg" data-background-size="contain" data-state="center" -->
 
 ---
@@ -128,18 +116,26 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/thinking-fast-and-slow.jpg" data-background-size="contain" data-state="center" -->
-
----
-
 ## (just a few of) IT doomsday predictions
 
 - Offshoring <!-- .element: class="fragment" -->
-- From COBOL and 4GLs to CASE <!-- .element: class="fragment" -->
+- From COBOL and 4th Generation Languages to CASE <!-- .element: class="fragment" -->
 - Y2K <!-- .element: class="fragment" -->
 - Dreamweaver <!-- .element: class="fragment" -->
 - WordPress <!-- .element: class="fragment" -->
 - Low-code / no-code <!-- .element: class="fragment" -->
+
+---
+
+<!-- .slide: data-background-image="assets/plato.png" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/factfulness.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/thinking-fast-and-slow.jpg" data-background-size="contain" data-state="center" -->
 
 ---
 
@@ -153,7 +149,7 @@ Software Engineer @ Box
   
 - Systems instability
 - Skill erosion
-- Designers and UXers
+- No senior engineers in a few years
 
   </div>
 </div>
@@ -169,12 +165,6 @@ Software Engineer @ Box
 ---
 
 <!-- .slide: data-background-image="assets/jevons-paradox.jpg" data-background-size="contain" data-state="center" data-footnote-text="Source" data-footnote-link="https://www.growthwaves.com/" -->
-
----
-
-## Your profession is going to change
-
-The question is, will you really notice that? <!-- .element: class="fragment" -->
 
 ---
 
@@ -272,11 +262,9 @@ Come back once there's enough signal that it's worth it
 
 ---
 
-## My current picks
+## Have a model like
 
-- Opus-4.7-xhigh (for brainstorming) <!-- .element: class="fragment" -->
-- GPT-5.5-high (for implementation) <!-- .element: class="fragment" -->
-- Codex-5.3-spark (for QQs) <!-- .element: class="fragment" -->
+Codex-5.3-spark (for Quick Questions)
 
 ---
 
@@ -297,8 +285,6 @@ Come back once there's enough signal that it's worth it
 ---
 
 <!-- .slide: data-background-image="assets/Gregor_Hohpe.jpg" data-background-size="contain" data-state="center" data-background-opacity="0.35" -->
-
-> "If you just paste what the tool has generated, it's never a good outcome."
 
 > "You use the output of the tool as your starting point. And then you add the value."
 
