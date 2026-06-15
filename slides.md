@@ -56,7 +56,7 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/april-2026-poland.png" data-background-size="contain" data-state="center" -->
+<!-- .slide: data-background-image="assets/may-2026-poland.png" data-background-size="contain" data-state="center" -->
 
 ---
 
