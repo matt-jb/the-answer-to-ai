@@ -12,6 +12,14 @@ Software Engineer @ Box
 
 ---
 
+<!-- .slide: data-background-image="assets/me-then-vs-me-now.jpg" data-background-size="contain" data-state="center" -->
+
+---
+
+<!-- .slide: data-background-image="assets/gmsd.png" data-background-size="contain" data-state="center" -->
+
+---
+
 <!-- .slide: data-background-video="assets/hoping-nobody-will-have-to-debug-this-later.mp4" data-background-video-loop data-background-video-muted data-background-size="contain" data-state="center" -->
 
 ---
