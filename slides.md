@@ -176,9 +176,9 @@ Software Engineer @ Box
 
 ---
 
-<!-- .slide: data-background-image="assets/dora.png" data-background-size="contain" data-state="center" data-background-opacity="0.35" -->
+<!-- .slide: data-background-image="assets/dora.png" data-background-size="contain" data-state="center" data-background-opacity="0.15" -->
 
-> "AI’s primary role in software development is to amplify. It magnifies the strengths of highperforming organizations and the dysfunctions of struggling ones. The greatest returns come not from the tools themselves, but from investing in the foundational systems that enable success."
+> "AI’s primary role in software development is to amplify."
 
 <small class="source">DORA, 2025</small>
 <small class="source"><a href="https://services.google.com/fh/files/misc/2025_dora_ai_capabilities_model.pdf">Source</a></small>
