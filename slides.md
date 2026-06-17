@@ -176,6 +176,15 @@ Software Engineer @ Box
 
 ---
 
+<!-- .slide: data-background-image="assets/dora.png" data-background-size="contain" data-state="center" data-background-opacity="0.35" -->
+
+> "AI’s primary role in software development is to amplify. It magnifies the strengths of highperforming organizations and the dysfunctions of struggling ones. The greatest returns come not from the tools themselves, but from investing in the foundational systems that enable success."
+
+<small class="source">DORA, 2025</small>
+<small class="source"><a href="https://services.google.com/fh/files/misc/2025_dora_ai_capabilities_model.pdf">Source</a></small>
+
+---
+
 ## What can YOU do?
 
 ---
@@ -239,8 +248,15 @@ The really good options:
 - More strategic tasks <!-- .element: class="fragment" -->
 - Larger diffs <!-- .element: class="fragment" -->
 - Become an AI leader in your organization <!-- .element: class="fragment" -->
-- Instinctively know the use-cases (and anti-use-cases for AI) <!-- .element: class="fragment" -->
 - Prove impact and initiative to your manager <!-- .element: class="fragment" -->
+
+---
+
+<!-- .slide: data-background-image="assets/peak-erners.jpeg" data-background-size="contain" data-state="center" data-footnote-text="Source: Hakeem Shibly" data-footnote-link="https://www.linkedin.com/feed/update/urn:li:activity:7468816960990945280/" -->
+
+---
+
+- Instinctively know the use-cases (and anti-use-cases for AI)
 
 ---
 
@@ -267,12 +283,6 @@ Come back once there's enough signal that it's worth it
 
 ![](assets/1764079927171.jpeg)
 <!-- .element: style="max-height: 50vh" -->
-
----
-
-## Have a model like
-
-Codex-5.3-spark (for Quick Questions)
 
 ---
 
